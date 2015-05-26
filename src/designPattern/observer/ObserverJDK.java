@@ -4,7 +4,7 @@ package designPattern.observer;
  * 设计模式：观察者
  * @author hj
  * 12
- *
+ *2
  */
 public class ObserverJDK {
 	public static void main(String[] args) {
