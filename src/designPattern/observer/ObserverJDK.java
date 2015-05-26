@@ -3,7 +3,7 @@ package designPattern.observer;
 /**
  * 设计模式：观察者
  * @author hj
- * 1
+ * 12
  *
  */
 public class ObserverJDK {
